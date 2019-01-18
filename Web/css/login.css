@@ -120,8 +120,16 @@ body {
 
 .remember-password {
 	position: absolute;
-    margin-top: -100px !important;
+    margin-top: -130px !important;
 	color: gray;
+    font-family: 'Arial';
+    font-size: 14px;
+}
+
+.create {
+	position: absolute;
+    margin-top: -100px !important;
+	color: #717171;
     font-family: 'Arial';
     font-size: 14px;
 }
